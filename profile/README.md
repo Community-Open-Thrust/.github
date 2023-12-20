@@ -29,4 +29,6 @@ https://github.com/Community-Open-Thrust/Cyclops_Community
 ***Repository for the 3D Distributed Propulsion's Axioms***
 https://github.com/Community-Open-Thrust/3D-DP_Community
 
+
+ The repositories for Open-Thrust Alliance using OHL-CERN-Permissive is here : https://github.com/Alliance-Open-Thrust
  
