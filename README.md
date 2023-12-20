@@ -1,2 +1,2 @@
-# .github
+# WELCOME TO THE OPEN THRUST COMMUNITY 
 Open Thrust Community
