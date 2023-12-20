@@ -10,14 +10,20 @@ or
 
 use the forum: https://github.com/orgs/Community-Open-Thrust/discussions 
 
+
 ***Repository for the Athena-A-2ET Static Thrust Electric Ducted Fan 2 Stages🥇***
 https://github.com/Community-Open-Thrust/Athena-A-2ET_Community
+
 
 ***Repository for the Heavy turbo-Drone for transportation Wohler-b***
 https://github.com/Community-Open-Thrust/Wohler-b_Community
 
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🧙
+***Repository for the Mini-drone mono-edf Cyclops***
+https://github.com/Community-Open-Thrust/Cyclops_Community
+
+
+***Repository for the 3D Distributed Propulsion's Axioms***
+https://github.com/Community-Open-Thrust/3D-DP_Community
 
  
