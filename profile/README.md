@@ -1,5 +1,5 @@
 ## Welcome to the Open-Thrust Community Repositories 👋
-🙋‍♀️ Open-Thrust Community Project manages the repositories related to Heavy Drones (UAV) under Open Hardware License CERN Strongly Reciprocal
+🙋‍♀️ Open-Thrust Community Project manages the repositories related to Heavy turbo-Drones, Static Thrust Electric Ducted Fan (EDF) based UAV, under Open Hardware License CERN Strongly Reciprocal
 
 
 🌈 ***Contribution guidelines - how can the community get involved?*** 
